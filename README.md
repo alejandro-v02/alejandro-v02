@@ -115,8 +115,6 @@ const alejandro: Developer = {
 
 </div>
 
-> Pin your best repos on GitHub (via *Customize your pins*) so they show up automatically below this table.
-
 ---
 
 <h2 align="left"><img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="24"/>&nbsp; Let's Connect</h2>
