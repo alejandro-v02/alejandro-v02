@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:134E5E,50:71B280,100:1A2980&height=220&section=header&text=Hi,%20I'm%20Alejandro&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20SENA%20ADSO%20%7C%20Pitalito%2C%20Colombia&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:134E5E,50:71B280,100:1A2980&height=250&section=header&text=Hi,%20I'm%20Alejandro&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20SENA%20ADSO%20%7C%20Pitalito%2C%20Colombia&descAlignY=55&descSize=18&animation=twinkling" width="100%"/>
 
 <a href="https://github.com/alejandro-v02">
   <img src="https://komarev.com/ghpvc/?username=alejandro-v02&color=71B280&style=flat&label=PROFILE+VIEWS" alt="profile views"/>
 </a>
-<img src="https://img.shields.io/github/followers/alejandro-v02?style=flat&color=134E5E&labelColor=0D1117" alt="followers"/>
+<img src="https://img.shields.io/github/followers/alejandro-v02?style=flat&color=134E5E&labelColor=0D1117&logo=github&logoColor=71B280" alt="followers"/>
 <img src="https://img.shields.io/badge/STATUS-BUILDING-A8E6CF?style=flat&labelColor=0D1117" alt="status"/>
 
 </div>
@@ -20,7 +20,9 @@
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake contribution graph"/>
 </p>
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:134E5E,50:71B280,100:1A2980&height=3&section=header&width=100%" width="100%"/>
+</div>
 
 <h2 align="left"><img src="https://cdn-icons-png.flaticon.com/512/1055/1055646.png" width="24"/>&nbsp; About Me</h2>
 
@@ -62,7 +64,9 @@ const alejandro: Developer = {
 </tr>
 </table>
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A2980,50:71B280,100:134E5E&height=3&width=100%" width="100%"/>
+</div>
 
 <h2 align="left"><img src="https://cdn-icons-png.flaticon.com/512/2965/2965300.png" width="24"/>&nbsp; Tech Stack</h2>
 
@@ -86,54 +90,85 @@ const alejandro: Developer = {
 
 </div>
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:134E5E,50:71B280,100:1A2980&height=3&width=100%" width="100%"/>
+</div>
 
 <h2 align="left"><img src="https://cdn-icons-png.flaticon.com/512/1828/1828817.png" width="24"/>&nbsp; GitHub Stats</h2>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=alejandro-v02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=71B280&icon_color=134E5E&text_color=ffffff&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandro-v02&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=71B280&text_color=ffffff" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alejandro-v02&theme=tokyonight&hide_border=true&background=0D1117&stroke=71B280&ring=134E5E&fire=A8E6CF&currStreakLabel=ffffff" width="60%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alejandro-v02&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=71B280&line=134E5E&point=ffffff" width="90%"/>
+<img src="https://streak-stats.demolab.com/?user=alejandro-v02&theme=tokyonight&hide_border=true&background=0D1117&stroke=71B280&ring=134E5E&fire=A8E6CF&currStreakLabel=ffffff&border_radius=15" width="60%"/>
 
 </div>
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A2980,50:71B280,100:134E5E&height=3&width=100%" width="100%"/>
+</div>
 
 <h2 align="left"><img src="https://cdn-icons-png.flaticon.com/512/2666/2666505.png" width="24"/>&nbsp; Featured Projects</h2>
 
 <div align="center">
 
-| Project | Description | Stack |
-|---|---|---|
-| **AsisApp** | Attendance management system for SENA | `NestJS` `Angular` `PostgreSQL` `Docker` |
-| **PorterIA** | Entry/exit access control with QR codes & element tracking | `FastAPI` `React` `PostgreSQL` |
-| **Sofia Bot** | WhatsApp attendance bot powered by AI | `n8n` `OpenAI` `PostgreSQL` |
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/AsisApp-134E5E?style=plastic&logo=nestjs&logoColor=71B280" /><br/><br/>
+      Attendance management system for SENA<br/><br/>
+      <img src="https://img.shields.io/badge/NestJS-E0234E?style=plastic&logo=nestjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=plastic&logo=angular&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white"/>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/PorterIA-1A2980?style=plastic&logo=fastapi&logoColor=71B280" /><br/><br/>
+      Entry/exit access control with QR codes & element tracking<br/><br/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=plastic&logo=fastapi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=black"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=postgresql&logoColor=white"/>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/Sofia%20Bot-71B280?style=plastic&logo=whatsapp&logoColor=0D1117" /><br/><br/>
+      WhatsApp attendance bot powered by AI<br/><br/>
+      <img src="https://img.shields.io/badge/n8n-EA4B71?style=plastic&logo=n8n&logoColor=white"/>
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=plastic&logo=openai&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=postgresql&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:134E5E,50:71B280,100:1A2980&height=3&width=100%" width="100%"/>
+</div>
 
 <h2 align="left"><img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="24"/>&nbsp; Let's Connect</h2>
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/alejandro-vitovis-b0aa94274/?skipRedirect=true"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:TU_CORREO_AQUI@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-<a href="https://wa.me/573214650510"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" /></a>
-<a href="https://www.facebook.com/Alejandro.vitovis"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/alejandro-vitovis-b0aa94274/?skipRedirect=true">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:TU_CORREO_AQUI@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" />
+</a>
+<a href="https://wa.me/573214650510">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=plastic&logo=whatsapp&logoColor=white" />
+</a>
+<a href="https://www.facebook.com/Alejandro.vitovis">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=plastic&logo=facebook&logoColor=white" />
+</a>
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
 ### "Code is a craft — I build it to last, and to solve real problems."
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A2980,50:71B280,100:134E5E&height=150&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A2980,50:71B280,100:134E5E&height=150&section=footer&animation=twinkling" width="100%"/>
 
 </div>
