@@ -81,24 +81,7 @@ const alejandro: Developer = {
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f310/512.gif" width="32" height="32" align="center" /> Mi ecosistema de proyectos
 
-Mis proyectos no viven aislados: forman un sistema conectado.
 
-```mermaid
-flowchart LR
-    U([👤 Aprendiz / Instructor]) -->|escribe| W[💬 Sofia Bot<br/>WhatsApp + n8n + OpenAI]
-    U -->|usa| A[🖥️ AsisApp<br/>Angular]
-    U -->|muestra QR| P[🚪 PorterIA<br/>React + QR]
-    W --> B{{⚙️ API NestJS<br/>Arquitectura hexagonal}}
-    A --> B
-    P --> F{{⚡ API FastAPI}}
-    B --> D[(🐘 PostgreSQL)]
-    F --> D
-    style B fill:#134E5E,color:#fff,stroke:#71B280
-    style F fill:#1A2980,color:#fff,stroke:#71B280
-    style D fill:#0D1117,color:#71B280,stroke:#71B280
-```
-
----
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="32" height="32" align="center" /> Proyectos destacados
 
