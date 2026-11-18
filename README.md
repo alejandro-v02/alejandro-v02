@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:2b2b2b,100:6b6b6b&height=260&section=header&text=Alejandro%20Vitovis&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Automation%20%C2%B7%20AI%20Systems&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
 
-<img src="./assets/v2/pills.svg" alt="Open to work · Pitalito, Huila · SENA ADSO" width="92%"/>
+<img src="./assets/pills.svg" alt="Open to work · Pitalito, Huila · SENA ADSO" width="92%"/>
 
 <br/><br/>
 
@@ -12,7 +12,7 @@
 
 <br/>
 
-<img src="./assets/v2/terminal.svg" alt="whoami: Desarrollador Full-Stack en Pitalito, Huila" width="100%"/>
+<img src="./assets/terminal.svg" alt="whoami: Desarrollador Full-Stack en Pitalito, Huila" width="100%"/>
 
 </div>
 
@@ -34,7 +34,7 @@ Soy desarrollador **full-stack** formado en el **SENA** (Análisis y Desarrollo 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f310/512.gif" width="30" height="30" align="center" /> Mi ecosistema de proyectos
 
 <div align="center">
-  <img src="./assets/v2/ecosystem.svg" alt="Diagrama: canales (web Angular, app de portería, WhatsApp) conectados a AsisApp, PorterIA y Sofia Bot, que comparten PostgreSQL y n8n + IA" width="100%"/>
+  <img src="./assets/ecosystem.svg" alt="Diagrama: canales (web Angular, app de portería, WhatsApp) conectados a AsisApp, PorterIA y Sofia Bot, que comparten PostgreSQL y n8n + IA" width="100%"/>
 </div>
 
 <br/>
@@ -43,9 +43,9 @@ Soy desarrollador **full-stack** formado en el **SENA** (Análisis y Desarrollo 
 
 <!-- Cambia REEMPLAZA-CON-TU-REPO por el nombre real de cada repositorio -->
 <div align="center">
-  <a href="https://github.com/alejandro-v02/REEMPLAZA-CON-TU-REPO"><img src="./assets/v2/card-asisapp.svg" alt="AsisApp — Gestión de asistencia para SENA" width="49%"/></a>
-  <a href="https://github.com/alejandro-v02/REEMPLAZA-CON-TU-REPO"><img src="./assets/v2/card-porteria.svg" alt="PorterIA — Control de acceso con QR" width="49%"/></a>
-  <a href="https://github.com/alejandro-v02/REEMPLAZA-CON-TU-REPO"><img src="./assets/v2/card-sofia.svg" alt="Sofia Bot — Asistencia por WhatsApp con IA" width="49%"/></a>
+  <a href="https://github.com/alejandro-v02/REEMPLAZA-CON-TU-REPO"><img src="./assets/card-asisapp.svg" alt="AsisApp — Gestión de asistencia para SENA" width="49%"/></a>
+  <a href="https://github.com/alejandro-v02/REEMPLAZA-CON-TU-REPO"><img src="./assets/card-porteria.svg" alt="PorterIA — Control de acceso con QR" width="49%"/></a>
+  <a href="https://github.com/alejandro-v02/REEMPLAZA-CON-TU-REPO"><img src="./assets/card-sofia.svg" alt="Sofia Bot — Asistencia por WhatsApp con IA" width="49%"/></a>
 </div>
 
 <details>
@@ -126,10 +126,10 @@ Soy desarrollador **full-stack** formado en el **SENA** (Análisis y Desarrollo 
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/alejandro-vitovis-b0aa94274/"><img src="./assets/v2/btn-linkedin.svg" alt="LinkedIn" height="52"/></a>
-<a href="mailto:TU_CORREO@gmail.com"><img src="./assets/v2/btn-email.svg" alt="Email" height="52"/></a>
-<a href="https://wa.me/573214650510"><img src="./assets/v2/btn-whatsapp.svg" alt="WhatsApp" height="52"/></a>
-<a href="https://github.com/alejandro-v02?tab=repositories"><img src="./assets/v2/btn-portfolio.svg" alt="Repositorios" height="52"/></a>
+<a href="https://www.linkedin.com/in/alejandro-vitovis-b0aa94274/"><img src="./assets/btn-linkedin.svg" alt="LinkedIn" height="52"/></a>
+<a href="mailto:TU_CORREO@gmail.com"><img src="./assets/btn-email.svg" alt="Email" height="52"/></a>
+<a href="https://wa.me/573214650510"><img src="./assets/btn-whatsapp.svg" alt="WhatsApp" height="52"/></a>
+<a href="https://github.com/alejandro-v02?tab=repositories"><img src="./assets/btn-portfolio.svg" alt="Repositorios" height="52"/></a>
 
 <br/><br/>
 
