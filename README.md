@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:134E5E,100:71B280&height=260&section=header&text=Alejandro%20Vitovis&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Automation%20%C2%B7%20AI%20Systems&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:2b2b2b,100:6b6b6b&height=260&section=header&text=Alejandro%20Vitovis&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Automation%20%C2%B7%20AI%20Systems&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
 
 <img src="./assets/pills.svg" alt="Open to work · Pitalito, Huila · SENA ADSO" width="92%"/>
 
 <br/><br/>
 
 <a href="https://github.com/alejandro-v02">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=71B280&center=true&vCenter=true&width=700&height=45&lines=Convierto+el+papeleo+en+sistemas+automatizados;NestJS+%E2%80%A2+Angular+%E2%80%A2+React+%E2%80%A2+FastAPI;Arquitectura+hexagonal+%E2%80%A2+c%C3%B3digo+limpio;Bots+%2B+IA+%2B+n8n+%3D+flujos+que+trabajan+solos;Siempre+aprendiendo%2C+siempre+entregando" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=E5E5E5&center=true&vCenter=true&width=700&height=45&lines=Convierto+el+papeleo+en+sistemas+automatizados;NestJS+%E2%80%A2+Angular+%E2%80%A2+React+%E2%80%A2+FastAPI;Arquitectura+hexagonal+%E2%80%A2+c%C3%B3digo+limpio;Bots+%2B+IA+%2B+n8n+%3D+flujos+que+trabajan+solos;Siempre+aprendiendo%2C+siempre+entregando" alt="typing"/>
 </a>
 
 <br/>
@@ -75,8 +75,8 @@ Soy desarrollador **full-stack** formado en el **SENA** (Análisis y Desarrollo 
 
 **IA y automatización**<br/>
 <img src="https://skillicons.dev/icons?i=opencv&theme=dark" alt="OpenCV" height="48"/>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white" alt="n8n" height="48"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" alt="OpenAI" height="48"/>
+<img src="https://img.shields.io/badge/n8n-1F1F1F?style=flat&logo=n8n&logoColor=white" alt="n8n" height="48"/>
+<img src="https://img.shields.io/badge/OpenAI-1F1F1F?style=flat&logo=openai&logoColor=white" alt="OpenAI" height="48"/>
 
 **Herramientas**<br/>
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark" alt="Git, GitHub, Linux, VS Code"/>
@@ -91,12 +91,12 @@ Soy desarrollador **full-stack** formado en el **SENA** (Análisis y Desarrollo 
      haz deploy gratis de tu propia instancia en Vercel (github.com/anuraghazra/github-readme-stats) y cambia el dominio. -->
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=alejandro-v02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=71B280&icon_color=71B280&text_color=c9d1d9&border_radius=20&rank_icon=github" height="175" alt="estadísticas"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandro-v02&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=71B280&text_color=c9d1d9&border_radius=20" height="175" alt="lenguajes"/>
+<img src="https://github-readme-stats.vercel.app/api?username=alejandro-v02&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=FFFFFF&icon_color=BDBDBD&text_color=D4D4D4&ring_color=FFFFFF&border_radius=20&rank_icon=github" height="175" alt="estadísticas"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandro-v02&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=FFFFFF&text_color=D4D4D4&border_radius=20" height="175" alt="lenguajes"/>
 
-<img src="https://streak-stats.demolab.com/?user=alejandro-v02&theme=tokyonight&hide_border=true&background=0D1117&stroke=71B280&ring=134E5E&fire=A8E6CF&currStreakLabel=ffffff&border_radius=20&locale=es" width="80%" alt="racha"/>
+<img src="https://streak-stats.demolab.com/?user=alejandro-v02&hide_border=true&background=0A0A0A&stroke=3A3A3A&ring=FFFFFF&fire=BDBDBD&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=BDBDBD&dates=8A8A8A&border_radius=20&locale=es" width="80%" alt="racha"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alejandro-v02&bg_color=0D1117&color=71B280&line=134E5E&point=A8E6CF&area=true&area_color=134E5E&hide_border=true&radius=20&custom_title=Actividad%20de%20contribuciones" width="100%" alt="gráfica de actividad"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alejandro-v02&bg_color=0A0A0A&color=E5E5E5&line=BDBDBD&point=FFFFFF&area=true&area_color=3A3A3A&title_color=FFFFFF&hide_border=true&radius=20&custom_title=Actividad%20de%20contribuciones" width="100%" alt="gráfica de actividad"/>
 
 </div>
 
@@ -133,12 +133,12 @@ Soy desarrollador **full-stack** formado en el **SENA** (Análisis y Desarrollo 
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=alejandro-v02&color=71B280&style=flat&label=visitas+al+perfil" alt="visitas"/>
+<img src="https://komarev.com/ghpvc/?username=alejandro-v02&color=555555&style=flat&label=visitas+al+perfil" alt="visitas"/>
 
 <br/><br/>
 
 <i>"El código es un oficio: lo construyo para que dure y para resolver problemas reales."</i>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:71B280,50:134E5E,100:0D1117&height=140&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6b6b6b,50:2b2b2b,100:000000&height=140&section=footer" width="100%"/>
 
 </div>
